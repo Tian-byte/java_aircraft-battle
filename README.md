@@ -24,7 +24,7 @@
  
 六、	项目运行截图<br>
 1.初始界面<br>
-
+![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-28-21.png)
 
 
 
