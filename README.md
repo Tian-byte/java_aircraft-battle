@@ -19,30 +19,19 @@
 三、	项目简介<br>
 玩家通过鼠标控制飞机发射子弹击中敌机获取积分，与敌机或者子弹相撞则飞机爆炸游戏结束，击败最终boss则游戏通关，游戏结束，玩法简单有趣，锻炼反应能力。<br>
 四、	功能架构图<br>
- 
+  ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-52-35.png)
 五、	面向对象设计包图、类图<br>
- 
+  ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-52-55.png)
+    ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-52-47.png)
 六、	项目运行截图<br>
 1.初始界面<br>
 ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-28-21.png)
-
-
-
-
-
-
-
-
-
-
 2.游戏运行界面<br>
- 
+ ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-28-45.png)
 3.我方飞机爆炸，游戏结束<br>
- 
-
+ ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-28-54.png)
 4.游戏通关<br>
- 
-
+ ![image](https://github.com/1474416640/java_aircraft-battle/blob/main/images/Snipaste_2023-05-21_16-29-10.png)
 七、	项目关键代码<br>
 完整代码已上传至github-https://github.com/1474416640/java_aircraft-battle<br>
 
